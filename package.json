@@ -1,0 +1,23 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "React basic learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishapiplani/React.git"
+  },
+  "keywords": [],
+  "author": "nitisha piplani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitishapiplani/React/issues"
+  },
+  "homepage": "https://github.com/nitishapiplani/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
