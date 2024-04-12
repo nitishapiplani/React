@@ -1,3 +1,19 @@
-#test{
-    color: red;
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid pink;
+}
+.logo{
+    height: 90px;
+    width: 120px;
+}
+.nav_items > ul{
+    font-size: 20px;
+    display: flex;
+    padding: 0px 20px;
+    list-style-type: none;
+}
+.nav_items > ul > li{
+    padding: 10 px;
+    margin: 10px;
 }
