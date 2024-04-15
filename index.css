@@ -17,3 +17,25 @@
     padding: 10 px;
     margin: 10px;
 }
+.rest-card{
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    background-color: pink;
+}
+.restro_container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+}
+.rest-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.search{
+    padding: 10px;
+}
+.res-logo{
+    width: 200px;
+    height: 130px;
+}
